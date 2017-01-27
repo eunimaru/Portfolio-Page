@@ -1,12 +1,12 @@
-# _{Eunice Webpage}_
+# _Eunice Webpage_
 
-#### _{A quick website about Eunice and her time at Epicodus}, {Jan 26 2016}_
+#### _A quick website about Eunice and her time at Epicodus, 01.26.17_
 
-#### By _**{Eunice Reyes}**_
+#### By _**Eunice Reyes**_
 
 ## Description
 
-_{This webpage describes the projects Eunice has done at Epicodus and a detailed description about her background. }_
+_This webpage describes the projects Eunice has done at Epicodus and a detailed description about her background._
 
 ## Setup/Installation Requirements
 
@@ -17,14 +17,12 @@ _{This webpage describes the projects Eunice has done at Epicodus and a detailed
 
 ## Known Bugs
 
-_{Pictures may look distorted due to lack of knowledge of how to align pictures side by side }_
+_Pictures may look distorted due to lack of knowledge of how to align pictures side by side_
 
 ## Technologies Used
 
-_{HTML and CSS}_
+_HTML and CSS_
 
 ### License
 
-*{Copyright (c)2017 Eunice R}*
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
+*Copyright (c)2017 Eunice R*
