@@ -2,15 +2,17 @@
   text-align: center;
   font-style: bold;
   font-family: Garamond;
-
+.main{
+  margin: 50px;
+  padding; 20px;
+}
 img{
   vertical-align:top;
   display: inline-block;
   height: 20px;
   width: auto;
-  display: inline-block;
+  float: left;
 }
-
 .projects{
   margin-top: 50px;
   padding: 20px;
