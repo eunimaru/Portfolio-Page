@@ -4,9 +4,16 @@
   font-family: Garamond;
 }
 .pictures{
-  margin: 2px;
+  margin-bottom: 200px;
   padding: 5px;
-  height: 20px;
-  width: 40px;
-  display: inline-block;
+  height: 2px;
+  width: auto;
+  float: left;
+}
+.projects{
+  margin-top: 50px;
+  padding: 20px;
+  float: left;
+  font-family: Calibri;
+  font-size: 20pt;
 }
