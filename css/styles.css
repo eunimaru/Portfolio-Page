@@ -1,29 +1,29 @@
-.header{
+.header {
   text-align: center;
   font-style: bold;
   font-family: Garamond;
-.main{
+.main {
   margin: 50px;
   padding; 20px;
 }
-img{
+img {
   vertical-align:top;
   display: inline-block;
   height: 20px;
   width: auto;
   float: left;
 }
-.projects{
+.projects {
   margin-top: 50px;
   padding: 20px;
   float: left;
   font-family: Garamond;
   font-size: 16pt;
 }
-.about{
+.about {
   font-family: Garamond;
   font-size: 16pt;
 }
-.highlight{
+.highlight {
   color: pink;
 }
