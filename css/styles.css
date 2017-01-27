@@ -1,10 +1,12 @@
 .header{
   text-align: center;
-  font-style: italic;
-  font-family:
+  font-style: bold;
+  font-family: Garamond;
 }
-.img{
+.pictures{
   margin: 2px;
-  border: 2px solid black;
-  padding:5px;
+  padding: 5px;
+  height: 20px;
+  width: 40px;
+  display: inline-block;
 }
